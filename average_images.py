@@ -86,3 +86,5 @@ ax.legend()
 
 # Show the plot
 plt.show()
+
+print("Sam added this line")
